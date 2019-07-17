@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>https://github.com/rehmlaing/rehmliang.github.io/about/</loc>
+        <lastmod>2019-07-17T09:17:31.275Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://github.com/rehmlaing/rehmliang.github.io/tags/</loc>
         <lastmod>2019-07-15T21:20:16.429Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -15,13 +22,6 @@
     
     <url>
         <loc>https://github.com/rehmlaing/rehmliang.github.io/archive/</loc>
-        <lastmod>2019-07-15T21:20:16.304Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://github.com/rehmlaing/rehmliang.github.io/about/</loc>
         <lastmod>2019-07-15T21:20:16.304Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
